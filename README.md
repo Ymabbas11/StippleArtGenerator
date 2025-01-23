@@ -94,8 +94,6 @@ The `output/generated_images/` folder contains generated examples, such as:
 - `image_at_epoch_0047_0.png`
 - `image_at_epoch_0049_4.png`
 
-![Sample Output](output/generated_images/image_at_epoch_0048_0.png)
-
 ---
 
 ## Contributing
